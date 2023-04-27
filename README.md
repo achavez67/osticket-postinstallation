@@ -69,7 +69,7 @@ Creating teams allows us to pull agents from different departments and group the
 <img src="https://i.imgur.com/RhpC6lf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-As an admin we can create agents (workers)...
+As an admin we can create agents (workers).
 </p>
 <br />
 
@@ -79,6 +79,16 @@ As an admin we can create agents (workers)...
 <img src="https://i.imgur.com/tbkctaF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-and users (customers).
+And as an agent we can create users (customers).
+</p>
+<br />
+
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/QtTGzPf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+We can configure SLA plans to organize our tasks and determine how long a ticket is going to be opened. This is for the help desk administrator to have an idea of when a ticket is expected to be closed. We can organize our time frames such as above where we created "SEV-A, SEV-B, and SEV-C".
 </p>
 <br />
