@@ -9,7 +9,9 @@ This tutorial outlines the post-installation process of the open-source help des
 
 <h2>Environments and Technologies Used</h2>
 
--osTicket
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -99,7 +101,7 @@ We can configure SLA plans to organize our tasks and determine how long a ticket
 <img src="https://i.imgur.com/Jclxc3J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-It is also helpful to be able to create "help topics" to help summarize what kind of problem we are going to work on. For the rest of the project, I decided to roleplay into hypthetical tasks. I created both user and agent accounts. I submitted tickets from a user's account, and then closed them from the agent's account. This helps to get familiarized with the process from both the users' and agent's perspective.
+It is also helpful to be able to create "help topics" to help summarize what kind of problem we are going to work on. For the rest of the project, I decided to roleplay into hypthetical tasks. I created both user and agent accounts. I submitted tickets from a user's account, and then closed them from the agent's account. This helps to get familiarized with the process from both the users' and agents' perspective.
 </p>
 <br />
 
