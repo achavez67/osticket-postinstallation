@@ -17,13 +17,11 @@ This tutorial outlines the post-installation process of the open-source help des
 
 <h2>Installation Steps</h2>
 
-For this project, I created a virtual machine via Microsoft Azure using Windows 10 as the operating system. There are a handful of requirements to install in order for osTicket to function properly.
-
 <p>
-<img src="https://i.imgur.com/mdu44fs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M69CqQ3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Before we install osTicket, we must install and enable IIS in windows with CGI. We can achieve this by going to the windows search bar and type "Control Panel". Then we will go to Programs->Programs and Features->Turn Windows features on or off. We will find IIS and enable it, expand it, expand Application Development Features, and enable CGI. 
+After we have successfully installed all prerequisites, we will be able to access osTicket in the browser and will take us to this page. We can see that in the top right it says "admin panel". This tells us that we are currently on the "agent panel" but it gives us the option to switch to the agent panel.
 
 </p>
 <br />
