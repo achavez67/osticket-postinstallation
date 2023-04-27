@@ -26,9 +26,19 @@ After we have successfully installed all prerequisites, we will be able to acces
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/rkHcmpx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0pHh7Vq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We must download the files in the image above and listed on the "prerequisites". We follow the instructions of each file to install the programs succesfully.
+When we click on the "admin panel", we are given more options to perform adminstrative duties and have the ability to assign roles to agents.
+</p>
+<br />
+
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/HRnFYlA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here we are able to customize and assign roles for each agent.
 </p>
 <br />
