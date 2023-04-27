@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-installation</h1>
-This tutorial outlines the post-installation process of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the post-installation process of the open-source help desk ticketing system osTicket and demonstrating the features that it offers.<br />
 
 
 
