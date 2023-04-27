@@ -62,3 +62,23 @@ We also have the ability to create departments and assign agents to their adequa
 Creating teams allows us to pull agents from different departments and group them together. This is especially helpful when only certain members of each department work on a specific project.
 </p>
 <br />
+
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/RhpC6lf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+As an admin we can create agents (workers)...
+</p>
+<br />
+
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/tbkctaF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+and users (customers).
+</p>
+<br />
