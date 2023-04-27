@@ -92,3 +92,13 @@ And as an agent we can create users (customers).
 We can configure SLA plans to organize our tasks and determine how long a ticket is going to be opened. This is for the help desk administrator to have an idea of when a ticket is expected to be closed. We can organize our time frames such as above where we created "SEV-A, SEV-B, and SEV-C".
 </p>
 <br />
+
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/Jclxc3J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+It is also helpful to be able to create "help topics" to help summarize what kind of problem we are going to work on.
+</p>
+<br />
